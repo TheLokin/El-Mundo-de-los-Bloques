@@ -17,7 +17,7 @@ Derecha, Abajo, Soltar, Izquierda, Coger, Arriba, Derecha, Derecha, Soltar, Izqu
 Soltar, Izquierda.
 
 <div align="center">
-  <img alt="Figura 1" src="img/figura1.png" />
+  <img alt="Figura 1" src="img/figura1.jpg" />
   <p>Figura 1: Dos posibles configuraciones de "El Mundo de los Bloques"</p>
 </div>
 
@@ -64,6 +64,6 @@ La interfaz gráfica de simulación se lanza mediante el comando blq.tcl seguido
 ```
 
 <div align="center">
-  <img alt="Figura 2" src="img/figura2.png" />
+  <img alt="Figura 2" src="img/figura2.jpg" />
   <p>Figura 2: Interfaz gráfica para la simulación de "El Mundo de los Bloques"</p>
 </div>
